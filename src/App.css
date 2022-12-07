@@ -1,0 +1,47 @@
+.App {
+display: flex;
+align-items: center;
+justify-self: center;
+place-content: center;
+}
+
+.card{
+  /* border: ridge; */
+margin-top: 3cm;
+background-color: lightgray;
+}
+.card1{
+  /* border: ridge; */
+  /* width: 15cm; */
+  
+background-color: lightgray;
+}
+.col {
+  ALIGN-SELF: CENTER;
+}
+input#email {
+  width: auto;
+}
+input#password {
+  width: auto;
+}
+.loginpage{
+  display: flex;
+  align-items: center;
+  place-content: center;
+ 
+}
+.loginbg {
+  position: relative;
+
+  background-image: url("https://hubble.miraclesoft.com/assets/img/bg-login.jpg");
+  background-size: cover;
+  /* width: 200vh; */
+  height: 100vh;
+  overflow: hidden;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  place-items: center;
+ 
+}
