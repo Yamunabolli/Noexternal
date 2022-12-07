@@ -5,7 +5,7 @@ import React, { useState, useEffect } from 'react'
 // main Icon component
 import { Icon } from 'react-icons-kit'
 
-// icons themselves
+
 import { plus } from 'react-icons-kit/feather/plus'
 import { edit2 } from 'react-icons-kit/feather/edit2'
 import { trash } from 'react-icons-kit/feather/trash'
